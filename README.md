@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jonas
 - 👀 I’m interested in Python, optics, 
-- 🌱 I’m currently learning Git
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: 
